@@ -33,7 +33,7 @@ void logo() {
 	printf("  우송비트 단기 55차 과정\n");
 	printf("  C언어 과정\n");
 	printf("  파일 분할 및 프로그램 구성\n");
-	printf("  2022-03-24\n");
+	printf("  2022-03-29\n");
 	printf("  ksh\n");
 	printf("*****************************************\n");
 	system("pause");
