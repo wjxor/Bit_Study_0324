@@ -120,7 +120,7 @@ void con_update() {
 
 	for (int i = 0; i < DATA_MAX; i++) {
 		if (g_id[i] == find_id) {
-			strcpy_s(g_phone[i], sizeof(g_phone), phone);
+			strcpy_s(g_phone[i], sizeof(g_phone[i]), phone);
 			printf("변경되었습니다\n");
 			return;
 		}
